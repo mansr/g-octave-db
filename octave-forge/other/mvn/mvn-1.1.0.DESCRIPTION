@@ -1,0 +1,12 @@
+Name: mvn
+Version: 1.1.0
+Date: 2013-12-30
+Author: Dominik Schnitzer
+Maintainer: Nir Krakauer <nkrakauer@ccny.cuny.edu>
+Title: mvn
+Description: Multivariate normal distribution clustering and utility functions.
+Categories: Statistics
+Depends: octave (>= 3.6.0)
+Autoload: no
+License: GPLv3+
+Url: http://octave.sf.net

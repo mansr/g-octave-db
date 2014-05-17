@@ -1,0 +1,11 @@
+Name: octcdf
+Version: 1.1.7
+Date: 2014-02-17
+Author: Alexander Barth <barth.alexander@gmail.com>
+Maintainer: Alexander Barth <barth.alexander@gmail.com>
+Title: octcdf
+Description: A NetCDF interface for octave
+Depends: octave (>= 3.4.0)
+BuildRequires: netcdf-devel
+License: GPLv2+
+Url: http://octave.sf.net

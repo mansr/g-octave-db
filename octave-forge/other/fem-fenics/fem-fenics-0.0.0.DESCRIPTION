@@ -1,0 +1,13 @@
+Name: fem-fenics
+Version: 0.0.0
+Date: 2013-11-09
+Author: Marco Vassalo <gedeone-octave@users.sourceforge.net>
+Maintainer: Marco Vassallo <gedeone-octave@users.sourceforge.net>
+Title: fem-fenics
+Description: pkg for the resolution of partial differential equation based on fenics
+Depends: octave (>= 3.7.5)
+SystemRequirements: dolfin (>=1.2.0), ffc (>=1.2.0)
+BuildRequirements: dolfin (>=1.2.0), ffc (>=1.2.0)
+Autoload: no
+License: GPLv3+
+Url: http://octave.sf.net
