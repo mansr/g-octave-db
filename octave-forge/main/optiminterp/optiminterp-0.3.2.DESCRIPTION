@@ -1,7 +1,7 @@
 Name: optiminterp
 Version: 0.3.2
 Date: 2009-05-03
-Author: Alexander Barth <abarth@marine.usf.edu>, Aida Alvera-Azc·rate <aalvera@marine.usf.edu>
+Author: Alexander Barth <abarth@marine.usf.edu>, Aida Alvera-Azc√°rate <aalvera@marine.usf.edu>
 Maintainer: Alexander Barth <abarth@marine.usf.edu>
 Title: optiminterp
 Description: An optimal interpolation toolbox for octave. This package provides functions to perform a n-dimensional optimal interpolations of arbitrarily distributed data points.
