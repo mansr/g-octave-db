@@ -1,0 +1,13 @@
+Name: Mapping
+Version: 1.2.0
+Date: 2015-07-14
+Author: various authors
+Maintainer: Philip Nienhuis <prnienhuis@users.sf.net>
+Title: Mapping Functions
+Description: Simple Mapping and GIS .shp file functions.
+Categories: Mathematics
+Depends: octave (>= 3.8.0)
+Suggested: io (>= 2.2.7), geometry (>= 1.4.0), octclip (>= 1.0.3)
+Autoload: no
+License: GPLv3+
+Url: http://octave.sf.net
