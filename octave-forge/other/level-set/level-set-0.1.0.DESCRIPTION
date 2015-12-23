@@ -1,0 +1,10 @@
+Name: level-set
+Version: 0.1.0
+Date: 2014-06-09
+Author: Daniel Kraft <daniel.kraft@uni-graz.at>
+Maintainer: Daniel Kraft <d@domob.eu>
+Title: Level-Set
+Description: Routines for calculating the time-evolution of the level-set equation and extracting geometric information from the level-set function.
+Depends: octave (>= 3.6.0)
+Autoload: no
+License: GPLv3+
