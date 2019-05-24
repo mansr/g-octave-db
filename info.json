@@ -1,5 +1,7 @@
 {
     "dependencies": {
+        "Postgresql": "dev-db/postgresql",
+        "arduino-ide": "dev-embedded/arduino",
         "awk": "sys-apps/gawk",
         "bash": "app-shells/bash",
         "blas": "virtual/blas",
@@ -24,8 +26,11 @@
         "libcfitsio-dev": "sci-libs/cfitsio",
         "libfltk1": "x11-libs/fltk:1",
         "libgdcm2": "sci-libs/gdcm",
+        "libgnutls": "net-libs/gnutls",
         "libmysqlclient15-dev": "virtual/libmysqlclient",
+        "libnetcdf-dev": "sci-libs/netcdf",
         "libproj-dev": "sci-libs/proj",
+        "librsb": "sci-libs/librsb",
         "libsqlite3-dev": "dev-db/sqlite:3",
         "libv4l-dev": "media-libs/libv4l",
         "makeinfo": "sys-apps/texinfo",
@@ -52,11 +57,14 @@
         "unixodbc-bin": "dev-db/unixODBC",
         "unixodbc-dev": "dev-db/unixODBC",
         "xorg-x11-devel": "x11-libs/libX11",
-        "zenity": "gnome-extra/zenity"
+        "zenity": "gnome-extra/zenity",
+        "zmq": "net-libs/zeromq"
     },
     "licenses": {
+        "null": "as-is",
         "BSD": "BSD",
         "BSD, GPL2": "BSD GPL-2",
+        "BSD-3-Clause": "BSD",
         "FreeBSD": "BSD-2",
         "GFDL, GPLv3+, modified BSD, public domain": "FDL-1.3 GPL-3+ BSD public-domain",
         "GNU/GPL": "GPL-1",
@@ -75,6 +83,7 @@
         "GPL version 3 or later and BSD": "GPL-3+ BSD",
         "GPL version 3 or later and Modified BSD (see individual files)": "GPL-3+ BSD",
         "GPL, see individual files for GPL version": "GPL-2 GPL-3",
+        "GPL-3.0+": "GPL-3+",
         "GPLv2+": "GPL-2+",
         "GPLv2+, public domain": "GPL-2+ public-domain",
         "GPLv3": "GPL-3",
@@ -83,6 +92,7 @@
         "GPLv3+, ALv2": "GPL-3+ Apache-2.0",
         "GPLv3+, FDL (manual), Apache2 (certain unit tests)": "GPL-3+ FDL-1.3 Apache-2.0",
         "GPLv3+, FreeBSD": "GPL-3+ BSD",
+        "GPLv3+, FreeBSD, Boost v1.0": "GPL-3+ BSD Boost-1.0",
         "GPLv3+, GFDL": "GPL-3+ FDL-1.3",
         "GPLv3+, LGPLv3+, FreeBSD": "GPL-3+ LGPL-3+ BSD",
         "GPLv3+, MIT, FreeBSD": "GPL-3+ MIT BSD",
