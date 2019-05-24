@@ -1,0 +1,14 @@
+Name: Parallel
+Version: 2.1.0
+Date: 2014-01-07
+Author: Hayato Fujiwara and Olaf Till <i7tiol@t-online.de>
+Maintainer: Olaf Till <i7tiol@t-online.de>
+Title: Parallel Computing.
+Description: Parallel execution package for cluster computers. See
+ also package mpi, maintained by Carlo de Falco. For parallel
+ execution on a single machine see e.g. function parcellfun (author:
+ Jaroslav Hajek) in package general.
+Depends: octave (>= 3.4.0)
+Autoload: no
+License: GPLv3+
+Url: http://octave.sf.net

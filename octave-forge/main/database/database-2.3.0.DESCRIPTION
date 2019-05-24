@@ -1,0 +1,10 @@
+Name: database
+Version: 2.3.0
+Date: 2014-01-07
+Author: Olaf Till <i7tiol@t-online.de>
+Maintainer: Olaf Till <i7tiol@t-online.de>
+Title: Database.
+Description: Interface to SQL databases, currently only postgresql using libpq.
+Depends: octave (>= 3.6.2)
+Autoload: no
+License: GPLv3+

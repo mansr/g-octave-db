@@ -1,0 +1,12 @@
+Name: Parallel
+Version: 3.0.2
+Date: 2015-07-16
+Author: Hayato Fujiwara, Jaroslav Hajek, Olaf Till
+Maintainer: Olaf Till <i7tiol@t-online.de>
+Title: Parallel Computing.
+Description: Parallel execution package. See also package mpi, maintained
+ by Carlo de Falco. 
+Depends: octave (>= 3.8.0)
+Autoload: no
+License: GPLv3+
+Url: http://octave.sf.net
